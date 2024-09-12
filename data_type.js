@@ -18,3 +18,18 @@ let isLoggedId =  false
 // object 
 
 console.log(typeof "Madhav");
+
+
+//primitive data 
+// string 
+// Number 
+// Boolean
+// null
+// undefined
+// Symbol
+// BigInt
+
+//reference Objects
+// Array
+// Object
+// functions
