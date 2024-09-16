@@ -33,3 +33,16 @@ console.log(typeof "Madhav");
 // Array
 // Object
 // functions
+
+const heros = [ " saktiman " , "naagrjun" , "  goga"]
+let myObj = {
+    name: "hitesh",
+    age: 22,
+}
+
+const  myFuncion =function(){
+    console.log("hero this now");    
+}
+
+const outside =  null
+console.log(typeof(outside));
