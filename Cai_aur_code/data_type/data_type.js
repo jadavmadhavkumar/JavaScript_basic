@@ -23,3 +23,39 @@ let isLoggdIn =  false
 //  object 
 
 console.log(typeof null)
+
+
+//  Primitive 
+
+/*  7 type : 
+1. String
+2. Number 
+3. Boolearn 
+4. null
+5. undefined 
+6. Symbol 
+7. BigInt
+*/
+
+
+//  refenrence (Non Primitive)
+
+// Array , Object , Functions 
+
+// JS is Static & Dynamic 
+
+const score =  100
+const scoreValue =  100.3
+
+const isLoggdIne   =  false
+const outsideTemp  =  null  
+let useEmail; 
+
+const id = Symbol('123')
+
+const anotherId =  Symbol('123')
+
+console.log(id ===  anotherId)
+
+const bigNumber =  23335436563434544n
+console.log(bigNumber)

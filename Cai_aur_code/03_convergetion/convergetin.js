@@ -22,3 +22,24 @@ let somenumber =  33
 
 let strugNumber =  String(somenumber)
 console.log(strugNumber)
+// ********************************** Oprations ***************
+
+let value =  3 
+let negValue =  -value
+
+console.log (negValue)
+
+
+console.log("1" +  2)
+console.log (1 +  "2")
+console.log("1" +  2 + 2 )
+console.log(1 + 2 + "2")
+
+//   ToPrimitive
+
+
+console.log(+true)
+console.log(+"")
+
+
+let num1 , num2 , num3 
